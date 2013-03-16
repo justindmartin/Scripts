@@ -41,7 +41,7 @@ then
 	fi
 else
 	#print required program parameters
-	echo "bash getWebpageLinks.sh URL OUTPUT_FILE(optional)"
+	echo 'bash getWebpageLinks.sh URL OUTPUT_FILE(optional)'
 	echo
 fi
 
